@@ -1,0 +1,11 @@
+E:\proj\ColorPicker\bin\Debug\ColorPicker.exe
+E:\proj\ColorPicker\bin\Debug\ColorPicker.pdb
+E:\proj\ColorPicker\obj\x86\Debug\MainWindow.baml
+E:\proj\ColorPicker\obj\x86\Debug\MainWindow.g.cs
+E:\proj\ColorPicker\obj\x86\Debug\App.g.cs
+E:\proj\ColorPicker\obj\x86\Debug\ColorPicker_MarkupCompile.cache
+E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.g.resources
+E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.Properties.Resources.resources
+E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.csproj.GenerateResource.Cache
+E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.exe
+E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.pdb
