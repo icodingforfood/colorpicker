@@ -9,3 +9,5 @@ E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.Properties.Resources.resources
 E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.csproj.GenerateResource.Cache
 E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.exe
 E:\proj\ColorPicker\obj\x86\Debug\ColorPicker.pdb
+D:\WorkSpace\cp\ColorPicker\obj\x86\Debug\ColorPicker.exe
+D:\WorkSpace\cp\ColorPicker\obj\x86\Debug\ColorPicker.pdb
